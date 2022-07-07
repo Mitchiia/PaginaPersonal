@@ -1,0 +1,43 @@
+body{
+    background-image: url(Fondito_3.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#top{
+    margin: 0 auto;
+    width: 80%;
+}
+header{
+    text-align: center;
+    position: relative;
+}
+
+#cont{
+    position: relative;
+    top: 27px;
+    right: -448px; 
+}
+
+#sobr{
+    position: relative;
+    top: 27px;
+    right: 465px; 
+}
+
+#miamor{
+    position: relative;
+    top: -114px;
+    right: -24px;
+}
+
+article{
+    margin: -512px 0px 0px 1px;
+}
+
+#slogan{
+    position: absolute;
+    top: 971px;
+    right: 460px;
+}

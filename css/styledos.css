@@ -1,0 +1,162 @@
+#top{
+    margin: 0 auto;
+    width: 80%;
+}
+
+body{
+    margin: 0 auto;
+    width: 80%;
+    background-image: url(Fondito_2.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+header, footer{
+    background-color: #BA97E6;
+    opacity: 75%;
+    text-align: center;
+    position: relative;
+}
+
+header{
+    width: 100%;
+    min-height: 100px;
+    margin: 40px 0 20px 0;
+    text-align: center;
+}
+
+#sobres{
+    opacity: 100%;
+}
+
+#chi{
+    position: absolute;
+    margin: -125px 605px;
+}
+#chi2{
+    position: absolute;
+    margin: -125px -750px;
+    transform: scaleX(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+}
+
+
+#noc{
+    margin: 10px 0px;
+    min-height: 600px;
+}
+
+
+#zonaA{
+    position: absolute;
+    width: 276px;
+    min-height: 600px;
+    margin: 0px 0px 2px 0px;
+    background-color: #BA97E6;
+    opacity: 75%;
+}
+
+#poco{
+    position: absolute;
+        margin: -10px -7px;
+        opacity: 100%;
+}
+
+
+    #nya{
+        position: absolute;
+        margin: 87px 150px;
+    }
+
+    #yabasta{
+       position: absolute;
+        margin: 204px 150px; 
+    }
+
+    #kya{
+        position: absolute;
+        margin: 204px 30px;
+    }
+
+    #wawa{
+        position: absolute;
+        margin: 324px 150px;
+    }
+
+    #uwu{
+        position: absolute;
+        margin: 324px 30px;
+    }
+
+    #owo{
+        position: absolute;
+        margin: 441px 150px;
+    }
+
+    #ewe{
+        position: absolute;
+        margin: 440px 30px;
+    }
+
+    #awa{
+        position: absolute;
+        margin: 87px 30px;
+    }
+
+   
+ 
+article{
+    position: absolute;
+    width: 750px;
+    min-height: 600px;
+    margin: 0px 0px 2px 385px;
+    float: left;
+    text-align: center;
+    background-color: #BA97E6;
+    opacity: 75%;
+}
+
+#zonaB{
+    position: absolute;
+    width: 276px;
+    min-height: 600px;
+    margin: 0px 0px 2px 1245px;
+    float: right;
+    background-color: #BA97E6;
+    opacity: 75%;
+}
+
+#herr{
+    position: absolute;
+    margin: -9px -10px;
+    opacity: 100%;
+}
+
+
+footer{
+    width: 100%;
+    min-height: 100px;
+    margin: 20px 0 20px 0; 
+    float: left;
+}
+
+#contacto{
+    opacity: 100%;
+}
+
+#chi3{
+    position: absolute;
+    margin: -21px 405px;
+}
+#chi4{
+    position: absolute;
+    margin: -21px -950px;
+    transform: scaleX(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+}

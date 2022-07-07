@@ -1,0 +1,100 @@
+#top{
+    margin: 0 auto;
+    width: 80%;
+}
+
+body{
+    background-image: url(Fondito_1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header, article{
+    background-color: #BA97E6;
+    border: 2px solid #BA97E6;
+    text-align: center;
+    position: relative;
+    opacity: 75%;
+}
+
+header{
+    width: 100%;
+    min-height: 80px;
+    margin: 40px 0 20px 0;
+    background-color: #BA97E6;
+    border: 2px solid #BA97E6;
+    
+}
+
+#chi{
+    position: absolute;
+    margin: -22px -950px;
+}
+#chi2{
+    position: absolute;
+    margin: -22px 400px;
+    transform: scaleX(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+}
+
+
+#contacto{
+    min-height: 80px;
+    position: relative;
+    top: 3px;
+    right: -40px;   
+}
+
+#titulo{
+    margin: 20px 0 0 0;
+}
+
+
+article{
+    width: 100%;
+    min-height: 650px;
+    margin: 0% 0% 2% 0%;
+    float: left;
+}
+
+#uwu{
+    width: 100%;
+    min-height: 650px;
+}
+
+
+#yop{
+    margin: 3% -982px 3% 15px;
+
+}
+
+#amsiedad{
+    position: relative;
+    top: -230px;
+    right: -958px;
+
+}
+
+#amsiedaddo{
+    position: relative;
+    top: -230px;
+    left: -770px;
+}
+
+#feibu{
+    position: absolute;
+    margin: -224px -356px;
+}
+
+#insta{
+    position: absolute;
+    margin: -224px -52px;
+}
+
+#tuite{
+    position: absolute;
+    margin: -224px 254px;
+}
